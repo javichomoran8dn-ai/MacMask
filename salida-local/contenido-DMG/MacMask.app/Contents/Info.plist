@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>es</string>
+	<key>CFBundleDisplayName</key>
+	<string>MacMask</string>
+	<key>CFBundleExecutable</key>
+	<string>MacMask</string>
+	<key>CFBundleIconFile</key>
+	<string>MACMiniIcon</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.macmask.glass.beta</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>MacMask</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.6.0</string>
+	<key>CFBundleVersion</key>
+	<string>6</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>15.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+	<key>NSLocationUsageDescription</key>
+	<string>Permite que la aplicación muestre el nombre de tu red Wi-Fi actual.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>MacMask necesita el permiso de ubicación únicamente para mostrar el nombre de la red Wi-Fi conectada; no almacena coordenadas.</string>
+</dict>
+</plist>
